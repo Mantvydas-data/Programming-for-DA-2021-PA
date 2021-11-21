@@ -9,7 +9,7 @@ Programming for Data Analysis Practical Assignment 2021
 ___
 
 <h3>Introduction</h3>
-<p>This repository contains continuous assessment for Programming for Data Analysis 2021 module. Files includes: gitignore file, readme and Jupyter notebook numpyrandom.ipynb. Assessment instructions can be downloaded <a href="https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Assignment.pdf">here</a>.</p>
+<p>This repository contains continuous assessment for Programming for Data Analysis 2021 module. Files include: gitignore file, readme and Jupyter notebook numpyrandom.ipynb. Assessment instructions can be downloaded <a href="https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Assignment.pdf">here</a>.</p>
 
 <h3>Problem statement</h3>
 <p>The following assignment concerns the numpy.random package in Python. You are required to create a Jupyter notebook explaining the use of the package, including detailed explanations of at least five of the distributions provided for in the package.</p>
