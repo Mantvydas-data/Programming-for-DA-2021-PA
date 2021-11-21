@@ -1,6 +1,8 @@
 # Programming-for-DA-2021-PA
 Programming for Data Analysis Practical Assignment 2021
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png" width="500"/>
+
 
 <h2 style="text-align: center;">GMIT Programming for Data Analysis Practical Assignment 2021</h2>
 <h2 style="text-align: center;">This depository contains Numpy.Random package overview.</h2>
