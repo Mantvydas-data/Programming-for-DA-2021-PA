@@ -5,7 +5,7 @@ Programming for Data Analysis Practical Assignment 2021
 
 
 <h2 style="text-align: center;">GMIT Programming for Data Analysis Practical Assignment 2021</h2>
-<h2 style="text-align: center;">This depository contains Numpy.Random package overview.</h2>
+<h2 style="text-align: center;">This repository contains Numpy.Random package overview.</h2>
 <h4>Student: Mantvydas Jokubaitis</h4>
 
 ___
